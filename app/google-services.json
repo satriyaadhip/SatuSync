@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "419615111503",
+    "firebase_url": "https://satusync-default-rtdb.firebaseio.com",
+    "project_id": "satusync",
+    "storage_bucket": "satusync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419615111503:android:8f4016ac581432286cad3a",
+        "android_client_info": {
+          "package_name": "com.example.satusync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi0TMx89hbVq1Hnn23wExKf0SdXGDL-LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
